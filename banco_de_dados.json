@@ -1,0 +1,37 @@
+{
+    "Nome": [
+        "Ricardo",
+        "Davidson",
+        "Priscila",
+        "Luzia",
+        "Tania"
+    ],
+    "Idade": [
+        36,
+        "37",
+        "33",
+        "55",
+        53
+    ],
+    "Peso": [
+        86,
+        "90",
+        "55",
+        "65",
+        60.0
+    ],
+    "BF": [
+        22,
+        "25",
+        "15",
+        "30",
+        20.0
+    ],
+    "Objetivo": [
+        "Emagrecer",
+        "For\u00e7a",
+        "Massa Magra",
+        "Emagrecer",
+        "Emagrecer"
+    ]
+}
