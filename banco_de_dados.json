@@ -2,36 +2,36 @@
     "Nome": [
         "Ricardo",
         "Davidson",
-        "Priscila",
-        "Luzia",
-        "Tania"
+        "Priscila"
     ],
     "Idade": [
         36,
-        "37",
-        "33",
-        "55",
-        53
+        37,
+        33
     ],
     "Peso": [
-        86,
-        "90",
-        "55",
-        "65",
-        60.0
+        86.0,
+        90.0,
+        62.0
+    ],
+    "Altura": [
+        1.8,
+        1.8,
+        1.56
     ],
     "BF": [
-        22,
-        "25",
-        "15",
-        "30",
-        20.0
+        22.0,
+        20.0,
+        30.0
     ],
     "Objetivo": [
         "Emagrecer",
         "For\u00e7a",
-        "Massa Magra",
-        "Emagrecer",
         "Emagrecer"
+    ],
+    "IMC": [
+        26.54320987654321,
+        27.78,
+        25.48
     ]
 }
